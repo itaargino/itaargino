@@ -5,8 +5,6 @@
 
 - 🧠 Learning in progress: **Cybersecurity**, **Python**, and web technologies like **HTML** and **Flask**.
 
-- 💡 Interested in low-level programming, Linux systems, and everything related to digital security.
-
 - 🛠️ Most of my learning journey and projects are documented here: [GitHub Portfolio](https://github.com/itaargino?tab=repositories)
 
 - Most proud project is related to biomedic studying using microcontrollers, you can look here (only portuguese): [Protótipo de Biomédica](https://github.com/itaargino/mao_robotica-SUPER-UFAM)
