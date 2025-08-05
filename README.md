@@ -9,7 +9,7 @@
 
 - 🛠️ Most of my learning journey and projects are documented here: [GitHub Portfolio](https://github.com/itaargino?tab=repositories)
 
-- Most proud project is related to Biomedical Studying using microcontrollers, you can look here (only portuguese): [Protótipo de Biomédica](https://github.com/itaargino/mao_robotica-SUPER-UFAM)
+- Most proud project is related to biomedic studying using microcontrollers, you can look here (only portuguese): [Protótipo de Biomédica](https://github.com/itaargino/mao_robotica-SUPER-UFAM)
 
 - My hobbies are music: [guitar and bass]() and languages: 🇬🇧 and 🇨🇳(currently HSK2)
 
