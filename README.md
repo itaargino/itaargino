@@ -11,7 +11,7 @@
 
 - Most proud project is related to biomedic studying using microcontrollers, you can look here (only portuguese): [Protótipo de Biomédica](https://github.com/itaargino/mao_robotica-SUPER-UFAM)
 
-- My hobbies are music: [guitar and bass]() and languages: 🇬🇧 and 🇨🇳(currently HSK2)
+- My hobbies are music: [guitar and bass]() and languages: 🇬🇧 and 🇨🇳 (currently HSK2)
 
 - 📫 Reach me at: **isaquetargino144@gmail.com**
 
