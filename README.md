@@ -11,7 +11,7 @@
 
 - 🎸 My hobbies are music: [guitar and bass]() and languages: 🇬🇧 and 🇨🇳 (currently HSK2)
 
-- 💭 Fun fact: the first project I participated in was [Tech Wizards](https://techwizardsteam.wordpress.com/)
+- 💭 Fun fact: the first project I participated in is documented in a blog called [Tech Wizards](https://techwizardsteam.wordpress.com/)
 
 - 📫 Reach me at: **isaquetargino144@gmail.com**
 
