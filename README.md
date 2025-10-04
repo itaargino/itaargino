@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Isaque 👋</h1>
 <h3 align="center">Computer Engineering student at UFAM — Universidade Federal do Amazonas 🇧🇷</h3>
 
-- 🔍 Currently developing a **Web Vulnerability Scanner** to deepen my skills in cybersecurity and automation.
-
-- 🧠 Learning in progress: **Cybersecurity**, **Python**, and web technologies like **HTML** and **Flask**.
+- 🧠 Learning in progress: **Python**.
 
 - 🛠️ Most of my learning journey and projects are documented here: [GitHub Portfolio](https://github.com/itaargino?tab=repositories)
 
