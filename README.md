@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Isaque 👋</h1>
 <h3 align="center">Computer Engineering student at UFAM — Universidade Federal do Amazonas 🇧🇷</h3>
 
-- 🧠 Learning in progress: **Python**.
+- 🧠 Learning in progress: **Swift**.
 
 - 🛠️ Most of my learning journey and projects are documented here: [GitHub Portfolio](https://github.com/itaargino?tab=repositories)
 
