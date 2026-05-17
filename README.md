@@ -4,7 +4,7 @@
 - 🧠 Learning in progress: **Swift / SwiftUI** at Apple Developer Academy - building apps for Apple's Ecosystem
 - 🛠️ Most of my learning journey and projects are documented here: [GitHub Portfolio](https://github.com/itaargino?tab=repositories)
 - 🏅 Most proud project is related to biomedic studying using microcontrollers, you can look here (only portuguese for now): [Protótipo de Biomédica](https://github.com/itaargino/mao_robotica-SUPER-UFAM)
-- 🎸 My hobbies are music: [guitar and bass]() and languages: 🇬🇧 and 🇨🇳 (currently HSK2)
+- 🎸 My hobbies are music: [guitar and bass](https://www.youtube.com/@Itaargino) and languages: 🇬🇧 and 🇨🇳 (currently HSK2)
 - 💭 Fun fact: the first project I participated in is documented in a blog called [Tech Wizards](https://techwizardsteam.wordpress.com/)
 - 📫 Reach me at: **isaquetargino144@gmail.com**
 
