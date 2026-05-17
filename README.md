@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Isaque 👋</h1>
-<h3 align="center">Computer Engineering student at UFAM — Universidade Federal do Amazonas 🇧🇷</h3>
+<h3 align="center">Computer Engineering student at UFAM - Universidade Federal do Amazonas 🇧🇷</h3>
 
-- 🧠 Learning in progress: **Swift**.
+- 🧠 Learning in progress: **Swift** at Apple Developer Academy
 
 - 🛠️ Most of my learning journey and projects are documented here: [GitHub Portfolio](https://github.com/itaargino?tab=repositories)
 
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  
 </p>
 
 #### 🖥️ Operating Systems & Terminal:
